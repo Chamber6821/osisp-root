@@ -1,0 +1,3 @@
+[submodule "osisp-lab01"]
+	path = osisp-lab01
+	url = https://github.com/Chamber6821/osisp-lab01.git
