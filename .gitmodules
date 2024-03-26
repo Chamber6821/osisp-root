@@ -4,3 +4,6 @@
 [submodule "lab02"]
 	path = lab02
 	url = git@github.com:Chamber6821/osisp-lab02.git
+[submodule "lab03"]
+	path = lab03
+	url = git@github.com:Chamber6821/osisp-lab03.git
